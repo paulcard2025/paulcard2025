@@ -1,25 +1,25 @@
 # 👨🏽‍💻 Paulo Cardoso
 
-**`Desenvolvedor de Software | Backend`**
+**`Software Developer | Backend`**
 
-Atualmente em formação na **42**, desenvolvo competências sólidas em **engenharia de software** por meio de projetos práticos e intensivos, com forte foco na resolução de problemas complexos.
+Currently studying at **42**, I am building strong skills in **software engineering** through intensive, hands-on projects, with a strong focus on solving complex problems.
 
-Tenho domínio de conceitos fundamentais como:
-- Estruturas de dados
-- Algoritmos
-- Aritmética de ponteiros
-- Gerenciamento manual de memória em **C**
+I have solid knowledge of core concepts such as:
+- Data structures
+- Algorithms
+- Pointer arithmetic
+- Manual memory management in **C**
 
-Paralelamente, aprofundo meus conhecimentos no **ecossistema JavaScript**, com ênfase em **desenvolvimento backend**, utilizando **Node.js**, **Express** e **bancos de dados relacionais**.
-Meu objetivo é construir **sistemas escaláveis, eficientes e seguros**, seguindo boas práticas de arquitetura e código limpo.
+In parallel, I am deepening my knowledge of the **JavaScript ecosystem**, with a focus on **backend development**, using **Node.js**, **Express**, and **relational databases**.  
+My goal is to build **scalable, efficient, and secure systems**, following clean architecture principles and best coding practices.
 
-Sou fundador da **Kupala Solution**, uma iniciativa voltada ao desenvolvimento de **soluções tecnológicas personalizadas para pequenas e médias empresas em Angola**, com foco inicial nos setores da **saúde** e **educação**.
+I am the founder of **Kupala Solution**, an initiative focused on developing **custom technology solutions for small and medium-sized businesses in Angola**, initially targeting the **healthcare** and **education** sectors.
 
-Estou sempre em busca de evolução técnica e aberto a oportunidades de **estágio**, **colaboração** ou **mentoria** em **backend** e **engenharia de software**.
+I am constantly seeking technical growth and am open to **internship opportunities**, **collaboration**, or **mentorship** in **backend development** and **software engineering**.
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paulo-cardoso-99772835b/" target="_blank">
@@ -57,7 +57,7 @@ Estou sempre em busca de evolução técnica e aberto a oportunidades de **está
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Languages & Technologies
 
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -73,18 +73,18 @@ Estou sempre em busca de evolução técnica e aberto a oportunidades de **está
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <p>
   <img
     align="left"
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=paulcard2025&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=paulcard2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 
   <img
     align="left"
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulcard2025&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulcard2025&theme=tokyonight&layout=compact"
   />
 </p>
